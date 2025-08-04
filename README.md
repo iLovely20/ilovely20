@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DhdHV2cmf8) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anggi_irawan20) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-anggi-irawan-24089a234) 
-[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://ilovely20.github.io/mai/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=website&logoColor=white)](https://ilovely20.github.io/mai/) 
 
 
 # 💻 Experience I Use
